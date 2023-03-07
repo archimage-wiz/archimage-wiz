@@ -29,7 +29,7 @@
 
 ⚡
 
-#### C++, STD, cmake, ООП, Macro, VS, и т.д.
+###### C++, STD, cmake, ООП, Macro, VS, и т.д.
 > Курсовая работа: [Клеточный автомат, игра жизнь](https://github.com/archimage-wiz/LifeGame_demo)<br>
 > Домашние задания:
 > [Бинарный поиск](https://github.com/archimage-wiz/CPP-Algo-_Case3_Hw1z2)
