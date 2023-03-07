@@ -5,7 +5,10 @@
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em><br>
 
 #### Мои навыки:
-###### Python:
+
+
+
+###### Python, requests, json, sqlalchemy, psycopg2, lxml, PIL, csv, re, BeautifulSoup, pytest, vk_api, telebot, etc.:
 > Кома́ндный курсовой проект: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).<br>
 > Домашние задания: [Web scrapping](https://github.com/archimage-wiz/PY_CASE3_PyAdvanced_Hw3_WebSCrapping).
 [Тесты](https://github.com/archimage-wiz/PY_Advanced_Hw6_PyTest).
@@ -15,33 +18,34 @@
 Сертификаты:
 <img src="python_advanced.png" width="256" border=0>
 
-###### PostreSQL (Базы данных)
+###### PostreSQL, DBeaver (Базы данных)
 > Домашние задания: 
 [БД через Python ORM](https://github.com/archimage-wiz/PY_CASEDB_Hw6_SQLAlchemy).
 [БД из Python psycopg2](https://github.com/archimage-wiz/PY_CASEDB_Hw5_PostgreSQL_Python_Requests).
-[SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).
+[SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).<br>
+Сертификаты:
+<img src="python_db.png" width="256" border=0>
 
-### Professional background
-> Python + PostreSQL + Git <br>
-> C# + Unity <br>
-> Java, HTML, CSS, Perl and C++ for a little things.<br>
+###### Git, GitHub, SouceTree (Кома́ндная работа)
+> Домашние задания: [Merge, Revert, Etc](https://github.com/archimage-wiz/Git_HomeWork2)<br>
+> Кома́ндная работа: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).<br>
+Сертификаты:
+<img src="git_base.png" width="256" border=0>
 
-#### Where to go for something wonderful
 > Life game [demo](https://github.com/archimage-wiz/LifeGame_demo) on GitHub<br>
 
-> Habr [&#8721;](https://career.habr.com/archimage_wiz) page.<br>
-> [Hacker Rank](https://www.hackerrank.com/archimage) restricted zone.<br>
-> Replit [code run](https://replit.com/@archimage) site.<br>
+
+#### Ссылки на другие ресурсы.
+
+> Страница на Хабр карьера. (https://career.habr.com/archimage_wiz).<br>
+> Демо на сайте Replit (https://replit.com/@archimage).<br>
 
 
-
-###### Thank you for visit!
+#### Спасибо за ваш визит!
 
 
 <!--
-
 ✨ 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
