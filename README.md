@@ -34,7 +34,7 @@
 > Домашние задания:
 > [Бинарный поиск](https://github.com/archimage-wiz/CPP-Algo-_Case3_Hw1z2)
 > [Рекурсия, фибоначчи](https://github.com/archimage-wiz/CPP-Algo-_Case3_Hw2z1z2-Fib-Recursion-)
-> [Про ООП](https://github.com/archimage-wiz/CPP_Case2_Hw5)
+> [Про ООП](https://github.com/archimage-wiz/CPP_Case2_Hw5)<br>
 Сертификаты:<br>
 <img src="base_cpp.png" width="256" border=0><br>
 
