@@ -58,9 +58,6 @@
 
 ⚡
 
-> Life game [demo](https://github.com/archimage-wiz/LifeGame_demo) on GitHub<br>
-
-
 #### Ссылки на другие ресурсы.
 
 > Обучаюсь в нетологии 🌱 <br>
