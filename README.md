@@ -6,7 +6,7 @@
 
 #### Мои навыки:
 
-###### Unity, C#, UnityEngine, Linq, ООП, SOLID и т.д. 🔭
+###### Unity, C#, UnityEngine, Linq, ООП, SOLID: 🔭
 > Домашние задания:
 [3D Арканоид](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw1_Arkanoid).
 [Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).
@@ -17,7 +17,7 @@
 
 ⚡
 
-###### Python, requests, json, sqlalchemy, psycopg2, lxml, PIL, csv, re, BeautifulSoup, pytest, vk_api, telebot, и т.д. и т.п.:
+###### Python, requests, json, sqlalchemy, psycopg2, lxml, PIL, csv, re, BeautifulSoup, pytest, vk_api, telebot:
 > Кома́ндный курсовой проект: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom). 👯 <br>
 > Домашние задания: [Web scrapping](https://github.com/archimage-wiz/PY_CASE3_PyAdvanced_Hw3_WebSCrapping).
 [Тесты](https://github.com/archimage-wiz/PY_Advanced_Hw6_PyTest).
@@ -29,7 +29,7 @@
 
 ⚡
 
-###### C++, STD, cmake, ООП, Macro, VS, и т.д.
+###### C++, STD, cmake, ООП, Macro, VS:
 > Курсовая работа: [Клеточный автомат, игра жизнь](https://github.com/archimage-wiz/LifeGame_demo)<br>
 > Домашние задания:
 > [Бинарный поиск](https://github.com/archimage-wiz/CPP-Algo-_Case3_Hw1z2)
