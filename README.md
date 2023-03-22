@@ -67,9 +67,8 @@
 > Страница на Хабр карьера. (https://career.habr.com/archimage_wiz).<br>
 > Демо на сайте Replit (https://replit.com/@archimage).<br>
 
-<br>
-
 #### Спасибо за ваш визит!
+
 
 <!--
 ✨ 
