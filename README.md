@@ -72,7 +72,6 @@
 #### Спасибо за ваш визит!
 <br>
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=archimage-wiz)
 
 <!--
 ✨ 
