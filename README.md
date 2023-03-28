@@ -8,12 +8,12 @@
 
 ###### Unity, C#, UnityEngine, Linq, ООП, SOLID: 🔭
 > Домашние задания:
-[3D Арканоид](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw1_Arkanoid).
-[Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).
-[Прототип раннера](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).
-[Прототип стрелялки](https://github.com/archimage-wiz/Unity_Case2_Hw2).<br>
+[Прототип: Ai Enemies](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw3_Hw3_Ai_Enemies).
+[Прототип: 3D Арканоид](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw1_Arkanoid).
+[Прототип: Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).
+[Прототип: Runner Game](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).<br>
 Скриншоты:<br>
-<img src="Checks1.png" width="256" height="128" border=0><img src="Arkanoid1.png" width="256" height="128" border=0><img src="Runner1.png" width="256" height="128" border=0>
+<img src="ai_enemies.png" width="200" height="100" border=0><img src="Checks1.png" width="175" height="87" border=0><img src="Arkanoid1.png" width="150" height="75" border=0><img src="Runner1.png" width="125" height="62" border=0>
 
 ⚡
 
