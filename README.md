@@ -1,6 +1,6 @@
 
 <strong>Добро пожаловать!</strong><br>
-Знакомьтесь: <b>Игорь Потахин</b> - <em>Разработчик удивительных штуковин.</em>
+Меня зовут <b>Игорь Потахин</b> - <em>я Fullstack разработчик.</em>
 > <strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> 💬<br>
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 
@@ -40,19 +40,18 @@
 
 ⚡
 
-###### PostreSQL, DBeaver (Базы данных)
+###### Database: PostgreS, DBeaver.
 > Домашние задания: 
+[SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).<br>
 [БД через Python ORM](https://github.com/archimage-wiz/PY_CASEDB_Hw6_SQLAlchemy).
 [БД из Python psycopg2](https://github.com/archimage-wiz/PY_CASEDB_Hw5_PostgreSQL_Python_Requests).
-[SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).<br>
 Сертификаты:<br>
 <img src="python_db.png" width="256" border=0><br>
 
 ⚡
 
-###### Git, GitHub, SouceTree (Кома́ндная работа)
+###### Git: GitHub.
 > Домашние задания: [Merge, Revert, Etc](https://github.com/archimage-wiz/Git_HomeWork2)<br>
-> Кома́ндная работа: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).<br>
 Сертификаты:<br>
 <img src="git_base.png" width="256" border=0><br>
 
