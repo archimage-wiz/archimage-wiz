@@ -11,7 +11,7 @@
 
 > Дипломная работа: [API Сервис заказа товаров для розничных сетей](https://github.com/archimage-wiz/Python_Diploma).<br>
 > Кома́ндный курсовой проект: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).<br>
-> Прочие задачи: [Image resizing with Celery](https://github.com/archimage-wiz/Hw8_Celery).
+> Прочие задачи: [Image resizing with Celery](https://github.com/archimage-wiz/Hw8_Celery). [Docker Django App](https://github.com/archimage-wiz/Hw4_DockerCompose_Nginx-WebApp-PostgreSQL).
 
 Сертификаты:<br>
 <img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><img src="python_web.png" width="256" border=0><br>
