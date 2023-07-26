@@ -14,7 +14,7 @@
 > Прочие задачи: [Image resizing with Celery](https://github.com/archimage-wiz/Hw8_Celery).
 
 Сертификаты:<br>
-<img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><img src="python_web.png" width="256" border=0><img src="python_advanced.png" width="256" border=0><br>
+<img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><img src="python_web.png" width="256" border=0><br>
 
 
 ###### Other - PostgreSQL, Git, Unity, C#, C++.
