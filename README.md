@@ -17,6 +17,10 @@
 <img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><img src="python_web.png" width="256" border=0><br>
 
 
+###### Frontend - HTML, CSS.
+> TBC
+
+
 ###### Other - PostgreSQL, MongoDB, Redis, Git, Unity, Docker, C#, C++.
 > Различные Задачи:<br>
 [SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).
@@ -32,9 +36,11 @@
 Скриншоты прототипов игр:<br>
 <img src="ai_enemies.png" width="100" height="75" border=0><img src="Checks1.png" width="100" height="75" border=0><img src="Arkanoid1.png" width="100" height="75" border=0><img src="Runner1.png" width="100" height="75" border=0>
 
+
 #### Ссылки на другие ресурсы.
 
 > Страница на Хабр карьера. (https://career.habr.com/archimage_wiz).<br>
+
 
 #### Спасибо за ваш визит!
 
