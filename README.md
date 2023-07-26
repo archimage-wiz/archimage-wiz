@@ -17,7 +17,7 @@
 <img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><img src="python_web.png" width="256" border=0><br>
 
 
-###### Other - PostgreSQL, Git, Unity, C#, C++.
+###### Other - PostgreSQL, MongoDB, Redis, Git, Unity, Docker, C#, C++.
 > Различные Задачи:<br>
 [SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).
 [БД через Python ORM](https://github.com/archimage-wiz/PY_CASEDB_Hw6_SQLAlchemy).
