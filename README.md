@@ -10,6 +10,7 @@
 - Frontend: HTML, CSS ..
 - Other: Git, ~$
 
+#### История проектов (Новые сверху):
 - Дипломная работа в Нетологии: [API Сервис заказа товаров для розничных сетей на Django](https://github.com/archimage-wiz/PythonDiplom).<br>
 <img src="Python_Developer.png" width="256" border=0><img src="Python_Django.png" width="256" border=0><br>
 - Кома́ндный курсовой проект: [чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).<br>
@@ -25,9 +26,9 @@
 <img src="Arkanoid1.png" width="300" height="175" border=0><br>
 - [Прототип: Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).<br>
 <img src="Checks1.png" width="300" height="175" border=0><br>
-[Прототип: Runner Game](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).<br>
+- [Прототип: Runner Game](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).<br>
 <img src="Runner1.png" width="300" height="175" border=0><br>
-[Консольная игра демо на С++](https://github.com/archimage-wiz/LifeGame_demo).<br>
+- [Консольная игра демо на С++](https://github.com/archimage-wiz/LifeGame_demo).<br>
 <img src="base_cpp.png" width="256" border=0><br>
 
 #### Ссылки на другие ресурсы.
