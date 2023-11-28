@@ -5,7 +5,7 @@
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 
 #### Ключевые навыки:
-- DataScience: Excel, TBC.
+- DataScience: Pandas, TBC.
 - Backend: Django DRF, Flask, Celery, Aiohttp, CI/CD, Requests, Beautiful Soup, Docker, PostgreSQL.
 - Frontend: HTML, CSS, TBC
 - Other: Git, ~$
