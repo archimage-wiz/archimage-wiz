@@ -24,14 +24,12 @@
 - [Docker Django App Demo](https://github.com/archimage-wiz/Hw4_DockerCompose_Nginx-WebApp-PostgreSQL).
 - [БД из Python psycopg2](https://github.com/archimage-wiz/PY_CASEDB_Hw5_PostgreSQL_Python_Requests). [БД через Python ORM](https://github.com/archimage-wiz/PY_CASEDB_Hw6_SQLAlchemy). [SQL Создание, запросы](https://github.com/archimage-wiz/PY_CASEDB_Hw4).<br>
 <img src="python_db.png" width="256" border=0><br><br>
-- [Прототип: Ai Enemies](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw3_Hw3_Ai_Enemies).<br>
-<img src="ai_enemies.png" width="300" height="175" border=0><br>
-- [Прототип: 3D Арканоид](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw1_Arkanoid).<br>
-<img src="Arkanoid1.png" width="300" height="175" border=0><br>
-- [Прототип: Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).<br>
-<img src="Checks1.png" width="300" height="175" border=0><br>
-- [Прототип: Runner Game](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).<br>
-<img src="Runner1.png" width="300" height="175" border=0><br><br>
+[Прототип: Ai Enemies](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw3_Hw3_Ai_Enemies).
+[Прототип: 3D Арканоид](https://github.com/archimage-wiz/Unity_Case3_AdvUnity_Hw1_Arkanoid).
+[Прототип: Игра шашки](https://github.com/archimage-wiz/Unity_Case2_Hw34).
+[Прототип: Runner Game](https://github.com/archimage-wiz/Unity_Case1_RunnerProto).  
+<img src="ai_enemies.png" width="250" height="150" border=0> <img src="Arkanoid1.png" width="250" height="150" border=0>  
+<img src="Checks1.png" width="250" height="150" border=0> <img src="Runner1.png" width="250" height="150" border=0><br><br>
 - [Консольная игра демо на С++](https://github.com/archimage-wiz/LifeGame_demo).<br>
 <img src="base_cpp.png" width="256" border=0><br>
 
