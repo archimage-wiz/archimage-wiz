@@ -5,10 +5,10 @@
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 
 #### Ключевые навыки:
-- DataScience: Pandas
-- Backend: Django DRF, Flask, Celery, Aiohttp, CI/CD, Requests, Beautiful Soup, Docker, PostgreSQL
-- Frontend: HTML, CSS, JS
-- Other: Git, ~$
+> DataScience: Pandas, NumPy, Scikit-learn, (PLT, SNS), Beautiful Soup, DBeaver..
+- Backend: Python, Django, DRF, Flask, Celery, Aiohttp, CI/CD, Requests, SQL Academy.
+- Frontend: HTML, CSS, JS, React..
+- Other: SQL, PostgreSQL, Docker, Git, ~$
 
 #### История проектов (Новые сверху):
 - Еще сертификаты: <br>
