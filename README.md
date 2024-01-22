@@ -6,7 +6,7 @@
 
 #### Ключевые навыки:
 > DataScience: Pandas, NumPy, Scikit-learn, (PLT, SNS), Beautiful Soup, DBeaver..
-- Backend: Python, Django, DRF, Flask, Celery, Aiohttp, CI/CD, Requests, SQL Academy.
+- Backend: Python, Django, DRF, Flask, Celery, Aiohttp, CI/CD, Requests, SQLAlchemy.
 - Frontend: HTML, CSS, JS, React..
 - Other: SQL, PostgreSQL, Docker, Git, ~$
 
