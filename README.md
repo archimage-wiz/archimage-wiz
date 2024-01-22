@@ -1,6 +1,6 @@
 
-<strong>Добро пожаловать!</strong><br>
-Меня зовут <b>Игорь Потахин</b> - <em>я разработчик.</em>
+<strong>Добро пожаловать!</strong><br><br>
+Меня зовут <b>Игорь Потахин</b> - <em>Я ML - разработчик.</em>
 > <strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> 💬<br>
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 
