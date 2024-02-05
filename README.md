@@ -17,7 +17,7 @@
 Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.<br>
 Точность предсказания составила 76%. Тоесть мы в 3/4 случаев заранее знаем уволится сотрудник или нет](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb).<br><br>
 > - [EDA Анализ статистики каналов на YouTube.<br>
-классификация каналов по двум самым популярным категориям.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Last/blob/main/Hw_YoutubeStatistics_Final.ipynb).<br><br>
+Классификация каналов по двум самым популярным категориям.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Last/blob/main/Hw_YoutubeStatistics_Final.ipynb).<br><br>
 > <img src="ds_python_statistic.png" width="256" border=0><br><br>
 
 > Еще сертификаты: <br>
