@@ -27,7 +27,7 @@
 > Еще сертификаты: <br>
 <img src="ds_analytic_base.png" width="256" border=0><img src="FrontEnd_Base.png" width="256" border=0><img src="java_base.png" width="256" border=0><img src="python_advanced.png" width="256" border=0><img src="diplom_small.jpg" width="128" border=0><br><br>
 
-> Верстка первого макета: [На сервере](http://eeee.one/demo/first_maket/).<br>
+> Верстка первого макета: [На сервере](http://x-www.com/demo/demo-maket1/).<br>
 <img src="Frontend_FirstMaket.png" width="512" border=0><br><br>
 
 > Дипломная работа в Нетологии: [API Сервис заказа товаров для розничных сетей на Django](https://github.com/archimage-wiz/PythonDiplom).<br>
