@@ -5,7 +5,7 @@
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 
 #### Ключевые навыки:
-- Frontend: React, JS, TS, CSS.
+- Frontend: React, TypeScript / JavaScript, CSS.
 - Backend: Python, Django, DRF, Flask, Celery, SQLAlchemy, Aiogram.
 - ML: Pandas, NumPy, Scikit-learn, (PLT, SNS), Beautiful Soup, DBeaver..
 - Other: SQL, PostgreSQL, MongoDB, Redis, Docker, Git, CI/CD, ~$
