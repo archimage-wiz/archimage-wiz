@@ -6,9 +6,9 @@
 
 #### Ключевые навыки:
 - Frontend: React, JS, TS, CSS.
-- Backend: Python, Django, DRF, Flask, Celery, Aiohttp, CI/CD, Requests, SQLAlchemy, Aiogram.
+- Backend: Python, Django, DRF, Flask, Celery, SQLAlchemy, Aiogram.
 - ML: Pandas, NumPy, Scikit-learn, (PLT, SNS), Beautiful Soup, DBeaver..
-- Other: SQL, PostgreSQL, MongoDB, Redis, Docker, Git, ~$
+- Other: SQL, PostgreSQL, MongoDB, Redis, Docker, Git, CI/CD, ~$
 
 #### История проектов (Новые сверху):  
 
