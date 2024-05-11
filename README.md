@@ -14,7 +14,7 @@
 #### Главные проекты:
 > Datascience: [Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
 > Backend: [API Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)  
-> Frontend: [Сайт кинотеатра, для заказа билетов онлайн, с администрированием.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/) [Демо на сервере](https://x-www.com/cinema)  
+> Frontend: [Сайт кинотеатра, для заказа билетов онлайн, с администрированием.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/) [Демо на сервере.](https://x-www.com/cinema) [Скриншот.](https://github.com/archimage-wiz/archimage-wiz/blob/main/cinema_admin.png)  
 
 #### История проектов (Новые сверху):
 
