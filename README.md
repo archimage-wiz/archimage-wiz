@@ -6,7 +6,7 @@
 
 #### Ключевые навыки:
 
-- ML: Pandas, NumPy, Scikit-learn, Matplotlib.
+- DS: Pandas, NumPy, Scikit-learn, Matplotlib.
 - Backend: Python, Django, DRF, Flask, Celery, SQLAlchemy, Aiogram.
 - Frontend: React, TypeScript / JavaScript, CSS.
 - Other: SQL, PostgreSQL, MongoDB, Redis, Docker, Git, CI/CD, ~$
