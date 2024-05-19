@@ -6,10 +6,10 @@
 
 #### Ключевые навыки:
 
-- DS: Pandas, NumPy, Scikit-learn, Matplotlib.
-- Backend: Python, Django, DRF, Flask, Celery, SQLAlchemy, Aiogram.
-- Frontend: React, TypeScript / JavaScript, CSS.
-- Other: SQL, PostgreSQL, MongoDB, Redis, Docker, Git, CI/CD, ~$
+- DS: Построение простых моделей прогнозарования на Scikit-learn. Обработка данных при помощи Pandas. Визуализация данных при помощи Matplotlib.
+- Backend: Разработка бекенд REST приложений на Flask+Admin+SQLAlchemy, Django+RestFramework. Создание задач на Celery. Создание телеграм ботов на Aiogram.
+- Frontend: Создание Одностраничных и Прогрессивных веб приложений на React, TS/JS с рендерингом на стороне клиента. Стилизация и анимация при помощи CSS.
+- Other: PostgreSQL, SQL Запросы, хранение и получение данных, а также Redis, MongoDB. Хранение различных данных. Упаковка NGINX Сревера, СУБД и Бекенд приложений в Docker. Настройка 1 ноды, для работы Fullstack приложения.
 
 #### Главные проекты:
 > Datascience: [Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
