@@ -1,27 +1,36 @@
 
 ### Добро пожаловать!<br>
-Меня зовут <b>Игорь Потахин</b> - <em>Я Fullstack разработчик, энтузиаст :)</em>
+Меня зовут <b>Игорь Потахин</b> - <em>Я Fullstack разработчик.</em>
 > <strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> 💬<br>
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 > <strong>Habr:</strong> <em>[Habr](https://career.habr.com/archimage_wiz)</em> <br>
 
-#### Главные проекты:
-> ML/DS: [Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
-> Backend: [API Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)  
-> Frontend: [Сайт кинотеатра, для заказа билетов онлайн, с администрированием.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/) [Демо на сервере.](https://x-www.com/cinema) [Скриншот.](https://github.com/archimage-wiz/archimage-wiz/blob/main/cinema_admin.png)  
-
 #### История проектов (Новые сверху):
 
-> Backend: Телеграм Бот, для магазина МВидео №540<br>
-> Стек: Aiogram, Docker.<br>
-> [Исходный код](https://github.com/archimage-wiz/TelegramBot_Mvideo540). Сам бот: @Mvideo540bot<br>
+> Сетек: TypeScript, HTML, CSS, React.  
+> Дипломная работа в "Нетологии". Создание сайта кинотеатра на React, с "админ" панелью.  
+> Исходный код: [Ссылка на github.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/)  
+> Демо на сервере: (при условии запущенного backend в Нетологии) [ССылка](https://x-www.com/cinema)  
+> Скриншот админки: [Скриншот.](https://github.com/archimage-wiz/archimage-wiz/blob/main/cinema_admin.png)  
 
-> Datascience: [EDA Анализ статистики каналов на YouTube.  
-> Классификация каналов по двум самым популярным категориям.](https://github.com/archimage-wiz/DS_PythonStat_Hw_Last/blob/main/Hw_YoutubeStatistics_Final.ipynb)<br>
+> Сетек: Python, Pandas, Matplotlib, SciKit-Learn, Numpy.  
+> Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.  
+> Исходный код: [Ссылка на Ноутбук](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
 
-> Frontend: Верстка первого макета: [Демо На сервере](http://x-www.com/demo-maket1/).<br>
+> Сетек: Python, Django, Celery, PostgreSQL, Redis.  
+> Дипломная работа в "Нетологии". Создание RestAPI сервиса.  
+> Исходный код: [Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)
 
-> Более старые проекты:  
+> Сетек: Python, Aiogram, Docker.  
+> Телеграм Бот, для магазина МВидео.    
+> Исходный код: [Исходный код](https://github.com/archimage-wiz/TelegramBot_Mvideo540).
+
+> Сетек: Python, Django, Celery, PostgreSQL, Redis.  
+> Дипломная работа в "Нетологии". Создание RestAPI сервиса.  
+> Исходный код: [Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)
+
+> Сетек: Python, VkAPI, PostgreSQL, SqlAlchemy, OpenCV, Docker, Nginx, psycopg2, SQL, Unity, C#, C++.  
+> Ccылки на Более старые проекты.  
 > [Кома́ндный курсовой проект: чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).
 [Image resizing with Celery](https://github.com/archimage-wiz/Hw8_Celery).
 [Docker Django App Demo](https://github.com/archimage-wiz/Hw4_DockerCompose_Nginx-WebApp-PostgreSQL).
