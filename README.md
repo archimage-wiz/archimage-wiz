@@ -12,7 +12,7 @@
 > [Ссылка на задание](https://docs.google.com/document/d/18Ti-G4t0KA641TQ9LbSL4mxEkwA6SLG3up_8TS5cxbI). [Ссылка на решение](https://github.com/archimage-wiz/test_jobs_php_yii2_idea_store).  
 
 > <strong>Стек:</strong> Python, json.  
-> Тестовое задание для Effective Mobile.  
+> Тестовое задание для Effective Mobile. (Разработка системы управления библиотекой.)  
 > Коментарий от EM по заданию: "Все по ТЗ, но много хардкода в main + нет тестов".  
 > [Ссылка на задание](https://docs.google.com/document/d/1slhOTBFdzLsNLvTTtVKFpw_Qt8_E5Y1Aib-nQTX_JCo/edit?tab=t.0). [Ссылка на решение.](https://github.com/archimage-wiz/test_jobs_library)  
 
