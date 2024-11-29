@@ -7,6 +7,12 @@
 
 #### История проектов (Новые сверху):
 
+> Сетек: Python, LightFM, Pandas, SciPy, SciKit-Learn, Numpy.  
+> Модуль с рекомендательными системами.  
+> [Ссылка 1, Гибридные рекомендательные системы.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/5_GybridRS/hw.ipynb)  
+> [Ссылка 2, Коллаборативная фильтрация.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/3_CollaborativeFiltering/hw.ipynb)  
+> [ССылка 3, На основе содержания.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/2_RS_BasedOnContent/hw.ipynb)  
+
 > Сетек: TypeScript, HTML, CSS, React.  
 > Дипломная работа в "Нетологии". Создание сайта кинотеатра на React, с "админ" панелью.  
 > Исходный код: [Ссылка на github.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/)  
