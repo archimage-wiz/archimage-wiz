@@ -7,6 +7,11 @@
 
 #### История проектов (Новые сверху):
 
+> Сетек: Python, json.  
+> Тестовое задание для Effective Mobile.  
+> Коментарий от EM по заданию: "Все по ТЗ, но много хардкода в main + нет тестов".  
+> [Ссылка на решение.](https://github.com/archimage-wiz/test_jobs_library)  
+
 > Сетек: Python, LightFM, Pandas, SciPy, SciKit-Learn, Numpy.  
 > Модуль с рекомендательными системами.  
 > [Ссылка 1, Гибридные рекомендательные системы.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/5_GybridRS/hw.ipynb)  
