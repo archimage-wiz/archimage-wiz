@@ -23,10 +23,6 @@
 > Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.  
 > Исходный код: [Ссылка на Ноутбук](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
 
-> Сетек: Python, Django, Celery, PostgreSQL, Redis.  
-> Дипломная работа в "Нетологии". Создание RestAPI сервиса.  
-> Исходный код: [Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)
-
 > Сетек: Python, Aiogram, Docker.  
 > Телеграм Бот, для магазина МВидео.    
 > Исходный код: [Исходный код](https://github.com/archimage-wiz/TelegramBot_Mvideo540).
