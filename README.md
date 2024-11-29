@@ -14,7 +14,7 @@
 > <strong>Стек:</strong> Python, json.  
 > Тестовое задание для Effective Mobile.  
 > Коментарий от EM по заданию: "Все по ТЗ, но много хардкода в main + нет тестов".  
-> [Ссылка на решение.](https://github.com/archimage-wiz/test_jobs_library)  
+> [Ссылка на задание](https://docs.google.com/document/d/1slhOTBFdzLsNLvTTtVKFpw_Qt8_E5Y1Aib-nQTX_JCo/edit?tab=t.0). [Ссылка на решение.](https://github.com/archimage-wiz/test_jobs_library)  
 
 > <strong>Стек:</strong> Python, LightFM, Pandas, SciPy, SciKit-Learn, Numpy.  
 > Модуль с рекомендательными системами.  
