@@ -5,38 +5,38 @@
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
 > <strong>Habr profile:</strong> <em>[Link 2 Habr](https://career.habr.com/archimage_wiz)</em> <br>
 
-#### История проектов (Новые сверху):
+#### История проектов (Новые сверху):  
 
-> Сетек: Python, json.  
+> <strong>Стек:</strong> Python, json.  
 > Тестовое задание для Effective Mobile.  
 > Коментарий от EM по заданию: "Все по ТЗ, но много хардкода в main + нет тестов".  
 > [Ссылка на решение.](https://github.com/archimage-wiz/test_jobs_library)  
 
-> Сетек: Python, LightFM, Pandas, SciPy, SciKit-Learn, Numpy.  
+> <strong>Стек:</strong> Python, LightFM, Pandas, SciPy, SciKit-Learn, Numpy.  
 > Модуль с рекомендательными системами.  
 > [Ссылка 1, Гибридные рекомендательные системы.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/5_GybridRS/hw.ipynb)  
 > [Ссылка 2, Коллаборативная фильтрация.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/3_CollaborativeFiltering/hw.ipynb)  
 > [ССылка 3, На основе содержания.](https://github.com/archimage-wiz/DS_RecommendSystemModule/blob/main/2_RS_BasedOnContent/hw.ipynb)  
 
-> Сетек: TypeScript, HTML, CSS, React.  
+> <strong>Стек:</strong> TypeScript, HTML, CSS, React.  
 > Дипломная работа в "Нетологии". Создание сайта кинотеатра на React, с "админ" панелью.  
 > Исходный код: [Ссылка на github.](https://github.com/archimage-wiz/Frontend_CinemaTicketsSystem/)  
 > Демо на сервере: (при условии запущенного backend в Нетологии) [ССылка](https://x-www.com/cinema)  
 > Скриншот админки: [Скриншот.](https://github.com/archimage-wiz/archimage-wiz/blob/main/cinema_admin.png)  
 
-> Сетек: Python, Pandas, Matplotlib, SciKit-Learn, Numpy.  
+> <strong>Стек:</strong> Python, Pandas, Matplotlib, SciKit-Learn, Numpy.  
 > Построение LDA модели с предсказанием уволится ли сотрудник на основании его текущих показателей.  
 > Исходный код: [Ссылка на Ноутбук](https://github.com/archimage-wiz/DS_PythonStat_Hw_Final/blob/main/Hw_.ipynb)  
 
-> Сетек: Python, Aiogram, Docker.  
+> <strong>Стек:</strong> Python, Aiogram, Docker.  
 > Телеграм Бот, для магазина МВидео.    
 > Исходный код: [Исходный код](https://github.com/archimage-wiz/TelegramBot_Mvideo540).
 
-> Сетек: Python, Django, Celery, PostgreSQL, Redis.  
+> <strong>Стек:</strong> Python, Django, Celery, PostgreSQL, Redis.  
 > Дипломная работа в "Нетологии". Создание RestAPI сервиса.  
 > Исходный код: [Сервис заказа товаров для розничных сетей на Django.](https://github.com/archimage-wiz/PythonDiplom)
 
-> Сетек: Python, VkAPI, PostgreSQL, SqlAlchemy, OpenCV, Docker, Nginx, psycopg2, SQL, Unity, C#, C++.  
+> <strong>Стек:</strong> Python, VkAPI, PostgreSQL, SqlAlchemy, OpenCV, Docker, Nginx, psycopg2, SQL, Unity, C#, C++.  
 > Ccылки на Более старые проекты.  
 > [Кома́ндный курсовой проект: чат бот для поиска пары](https://github.com/archimage-wiz/adpy-team-diplom).
 [Image resizing with Celery](https://github.com/archimage-wiz/Hw8_Celery).
