@@ -3,7 +3,7 @@
 Меня зовут <b>Игорь Потахин</b> - <em>Я Fullstack разработчик.</em>
 > <strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> 💬<br>
 > <strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em> 📫<br>
-> <strong>Habr:</strong> <em>[Habr](https://career.habr.com/archimage_wiz)</em> <br>
+> <strong>Habr profile:</strong> <em>[Link 2 Habr](https://career.habr.com/archimage_wiz)</em> <br>
 
 #### История проектов (Новые сверху):
 
