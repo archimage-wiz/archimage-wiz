@@ -7,6 +7,10 @@
 
 #### История проектов (Новые сверху):  
 
+> <strong>Стек:</strong> HTML, CSS, PHP, Yii2.  
+> Тестовое задание для SilverDuck Agency. (Сделать To-Do-App используя БД.)  
+> [Ссылка на задание](https://docs.google.com/document/d/18Ti-G4t0KA641TQ9LbSL4mxEkwA6SLG3up_8TS5cxbI). [Ссылка на решение](https://github.com/archimage-wiz/test_jobs_php_yii2_idea_store).  
+
 > <strong>Стек:</strong> Python, json.  
 > Тестовое задание для Effective Mobile.  
 > Коментарий от EM по заданию: "Все по ТЗ, но много хардкода в main + нет тестов".  
